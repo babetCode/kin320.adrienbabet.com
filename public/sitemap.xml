@@ -2,29 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/week1/</loc>
+    <loc>/notes/week1/</loc>
     <lastmod>2025-01-16T13:43:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/week2/</loc>
+    <loc>/notes/week2/</loc>
     <lastmod>2025-01-16T13:46:42-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lab3/</loc>
+    <loc>/feb11/</loc>
+    <lastmod>2025-02-11T14:04:34-07:00</lastmod>
+  </url><url>
+    <loc>/lab/lab3/</loc>
     <lastmod>2025-02-04T17:08:06-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/week4/</loc>
+    <loc>/lab/</loc>
+    <lastmod>2025-02-04T17:08:06-07:00</lastmod>
+  </url><url>
+    <loc>/notes/</loc>
     <lastmod>2025-02-04T13:46:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lab2emg/</loc>
+    <loc>/notes/week4/</loc>
+    <lastmod>2025-02-04T13:46:26-07:00</lastmod>
+  </url><url>
+    <loc>/lab/lab2emg/</loc>
     <lastmod>2025-01-21T17:09:27-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/questions/</loc>
+    <loc>/notes/questions/</loc>
     <lastmod>2025-01-21T14:30:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-06T11:09:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
