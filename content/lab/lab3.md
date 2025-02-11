@@ -5,3 +5,4 @@ title = 'Lab3'
 +++
 
 this lab report is due in 2 weeks (week of feb 18th)
+
