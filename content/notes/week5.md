@@ -1,10 +1,12 @@
 +++
 date = '2025-02-20T14:19:54-07:00'
 draft = false
-title = 'Week5'
+title = 'Circulatory Resistance Notes'
 math = true
 weight = 5
 +++
+
+Total Peripheral Resistance (TPR) measures the resistance to blood flow in the systemic circulation. It can be calculated using:
 
 $$\text{Blood Pressure} = \text{Cardiac Output} * \text{Total Peripheral Resistance}$$
 
